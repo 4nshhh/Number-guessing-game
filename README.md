@@ -46,7 +46,7 @@ I also learned how to use the `random` module and work with files to track and u
 
 ---
 
-## 📝 Future Improvements
+## 📝 Future Improvements (I'll try to implement)
 - Add input validation (handle non-integer input)
 - Create a GUI using `Tkinter` or `PyGame`
 - Track player name and score history
